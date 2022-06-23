@@ -27,7 +27,7 @@ To implement Huffman coding to compress the data using Python.
 
 ``` Python
 # Get the input String
-string ='My name is bharath'
+string ='I am Kirupanandhan'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
